@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Dennis
 
-<!--
-**deka641/deka641** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Fullstack Web Developer and Data Engineer based in Germany.
 
-Here are some ideas to get you started:
+I build modern web applications and scalable data pipelines.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+
+**Frontend:** React, Next.js, TypeScript, JavaScript, HTML, CSS, Tailwind CSS
+
+**Backend:** Node.js, Express, Python, FastAPI, Django, REST APIs
+
+**Data Engineering:** ETL/ELT Pipelines, SQL, PostgreSQL, Data Modeling, Apache Airflow
+
+**DevOps & Tools:** Git, Docker, Linux, CI/CD, Vercel
