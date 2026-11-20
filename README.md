@@ -7,13 +7,9 @@ My focus is data engineering: ETL and ELT pipelines in Python and SQL, dimension
 ## Tech stack
 
 - **Data:** Python (Polars, pandas, SQLAlchemy), SQL (PostgreSQL, MySQL, DuckDB)
-- **Machine learning:** scikit-learn, LightGBM
+- **Machine learning:** scikit-learn, LightGBM, Keras
 - **Applications:** FastAPI, React, TypeScript
 - **Operations:** Docker, Kubernetes, Git, Linux
-
-## Certificates
-
-Professional Certificates on Coursera: IBM Data Engineering, IBM Machine Learning, Meta Back-End Developer and Meta Front-End Developer.
 
 ## Projects
 
