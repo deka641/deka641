@@ -17,7 +17,7 @@ Technology follows the business goal: I clarify requirements directly with busin
 
 ## Projects
 
-My work so far lives in private repositories. Public projects will appear here as they are released.
+**[grid-load-forecast](https://github.com/deka641/grid-load-forecast)**: day-ahead forecast of the German grid load from public SMARD data. A Polars and DuckDB pipeline loads and validates the source data, a LightGBM model forecasts every hour of the next delivery day, and a FastAPI backend serves the results to a React and TypeScript dashboard. In a one-year backtest the model reaches a MAPE of 3.04 %, against 3.92 % for the grid load forecast SMARD publishes. The whole stack starts with Docker Compose.
 
 ## Contact
 
